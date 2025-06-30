@@ -10,6 +10,7 @@
 ## Publications
 [1] A manuscript number has been assigned to Water mapping based on mutispectral imagery:
 common problems and corresponding strategies
+
 [2] LLM-enhanced 3D Generation: A Survey
 
 
